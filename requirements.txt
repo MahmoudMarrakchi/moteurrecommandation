@@ -1,0 +1,16 @@
+# Bibliothèques principales
+streamlit>=1.25.0
+pandas>=1.5.3
+numpy>=1.24.3
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Analyse de données et machine learning
+scikit-learn>=1.2.2
+
+# Gestion du temps
+python-dateutil>=2.8.2
+
+# Locale pour l'internationalisation
+babel>=2.12.1
+
