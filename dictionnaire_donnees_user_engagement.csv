@@ -1,0 +1,20 @@
+Nom de la colonne,Description
+visitor_id,Identifiant unique pour chaque visiteur
+total_sessions,Nombre total de sessions de l’utilisateur
+click_count,Nombre total de clics sur toutes les sessions
+num_pageviews,Nombre total de pages vues sur toutes les sessions
+avg_session_duration,Durée moyenne des sessions en secondes
+days_since_first_session,Nombre de jours depuis la première session enregistrée
+num_prior_sessions,Nombre maximal de sessions précédentes enregistrées
+is_new_visitor,Booléen indiquant si l’utilisateur a été marqué comme nouveau dans une session
+days_since_prior_session,Nombre moyen de jours entre deux sessions consécutives
+clicks_per_session,Nombre moyen de clics par session
+pageviews_per_session,Nombre moyen de pages vues par session
+days_since_last_activity,Nombre de jours depuis la dernière activité enregistrée
+frequency,Fréquence des sessions (sessions par jour)
+recency_score,Score de récence normalisé (plus élevé pour une activité récente)
+frequency_score,Score de fréquence normalisé
+duration_score,Score de durée de session normalisé
+interaction_score,Score d’interaction normalisé
+loyalty_score,Score de fidélité normalisé basé sur le nombre total de sessions
+engagement_score,Score global d’engagement (moyenne pondérée des composantes)
